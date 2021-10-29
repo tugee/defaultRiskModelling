@@ -1,4 +1,4 @@
-#Using logistic regression to predict default risk of credit card customers
+# Using logistic regression to predict default risk of credit card customers
 
 Inspiration for report from the following Kaggle assignment:
 https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
